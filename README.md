@@ -33,6 +33,8 @@
 
 ## Explication du contrat Voting.sol
 
+[votingtest.js](https://github.com/gurguven/votingtest/blob/main/contracts/Voting.sol)
+
 **Le contrat voting.sol comporte 10 fonctions :**
 ### GETTERS : 
 - *getVoter()*, permettant d'obtenir les informations disponibles d'un voteur par son adresse ethereum
