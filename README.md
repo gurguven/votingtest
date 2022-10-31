@@ -33,7 +33,7 @@
 
 ## Explication du contrat Voting.sol
 
-[votingtest.js](https://github.com/gurguven/votingtest/blob/main/contracts/Voting.sol)
+[Voting.sol](https://github.com/gurguven/votingtest/blob/main/contracts/Voting.sol)
 
 **Le contrat voting.sol comporte 10 fonctions :**
 ### GETTERS : 
